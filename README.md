@@ -1,2 +1,2 @@
 # github-issues-repo
-Issues repository display demo
+Issues repository display 
